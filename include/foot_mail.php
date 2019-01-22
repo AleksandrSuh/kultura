@@ -1,0 +1,1 @@
+<a href="mailto:vpuprkult@mail.ru">vpuprkult@mail.ru</a>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a0219f0-cc3e-4197-b741-62731ef0679d" name="kultura" url="http://ftp.new-vp-cult.1gb.ru">
+        <fileTransfer host="ftp.new-vp-cult.1gb.ru" port="21" rootFolder="/http">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" controlEncoding="utf-8" dataProtectionLevel="Private" maxConnections="2" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
