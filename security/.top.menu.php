@@ -1,0 +1,3 @@
+<?
+$aMenuLinks = $GLOBALS['arTopMenuInner'];
+?>

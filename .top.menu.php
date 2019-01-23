@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О нас", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"#block42", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+    Array(
+        "Учреждения",
+        "#block39",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Безопасность",
+        "/security/",
+        Array(),
+        Array(),
+        ""
+    ),
+	Array(
+		"Афиша", 
+		"#block41", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Галерея", 
+		"#block112", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Документы", 
+		"/docs/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Наша гордость", 
+		"/our_pride/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Виртуальная приёмная", 
+		"#block50", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

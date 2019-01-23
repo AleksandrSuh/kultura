@@ -1,0 +1,12 @@
+
+		<html>
+		<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<style>
+			td {mso-number-format:\@;}
+			.number0 {mso-number-format:0;}
+			.number2 {mso-number-format:Fixed;}
+		</style>
+		</head>
+		<body><table border="1"><tr><td>Название</td><td>Активность</td><td>Сортировка</td><td>Дата изменения</td><td>ID</td></tr><tr><td>Мебельный форум Беларуси</td><td align="center">Да</td><td align="right" class="number0">500</td><td>26.08.2018 21:57:44</td><td align="right" class="number0">1</td></tr><tr><td>Международная мебельная выставка SALON DEL MOBILE</td><td align="center">Да</td><td align="right" class="number0">500</td><td>26.08.2018 21:57:44</td><td align="right" class="number0">2</td></tr><tr><td>Получено прочное водостойкое соединение</td><td align="center">Да</td><td align="right" class="number0">500</td><td>26.08.2018 21:57:44</td><td align="right" class="number0">3</td></tr></table></body></html>

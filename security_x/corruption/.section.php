@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Коррупция";
+$arDirProperties = Array(
+
+);
+?>
