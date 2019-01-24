@@ -141,7 +141,7 @@ if (strpos($GLOBALS["APPLICATION"]->GetCurDir(),"/docs/")  !== false || strpos($
                             "MENU_CACHE_TYPE" => "A",
                             "MENU_CACHE_USE_GROUPS" => "N",
                             "ROOT_MENU_TYPE" => "top",
-                            "USE_EXT" => "N"
+                            "USE_EXT" => "Y"
                         )
                     );?>
                 </div>
