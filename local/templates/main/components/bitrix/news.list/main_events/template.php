@@ -63,6 +63,7 @@ $arDateVal = explode('.',$arItem['PROPERTIES']['DATE']['VALUE']);
 
                         </div>
                         <!-- End Countdown -->
+                        <img src="<?=$arItem["PREVIEW_PICTURE"]["SRC"]?>" />
                     </div>
                 </div>
 
